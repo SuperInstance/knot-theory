@@ -2,8 +2,10 @@
 name = "knot-theory"
 version = "0.1.0"
 edition = "2021"
-description = "Knot invariants and classification including Alexander polynomial, writhe, and Reidemeister moves"
+description = "Knot invariants and classification — crossings, writhe, linking number, Alexander polynomial"
 license = "MIT"
+keywords = ["knot", "topology", "invariant", "linking", "alexander"]
+categories = ["mathematics", "algorithms"]
 repository = "https://github.com/SuperInstance/knot-theory"
 
 [dependencies]
