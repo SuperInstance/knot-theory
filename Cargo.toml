@@ -1,0 +1,9 @@
+[package]
+name = "knot-theory"
+version = "0.1.0"
+edition = "2021"
+description = "Knot invariants and classification including Alexander polynomial, writhe, and Reidemeister moves"
+license = "MIT"
+repository = "https://github.com/SuperInstance/knot-theory"
+
+[dependencies]
